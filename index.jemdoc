@@ -14,7 +14,8 @@ RSS Feed: [http://feed43.com/liujiyuan13.xml /http:\/\/feed43.com\/liujiyuan13.x
 ~~~
 
 == News!
-\[2021\/06\]~~\"{{<u>One Pass Late Fusion Multi-view Clustering</u>}}\" has been accepted by *ICML21*. \n
+\[2021\/07\]~~Three papers have been accepted by *ACMMM21*. \n
+\[2021\/05\]~~\"{{<u>One Pass Late Fusion Multi-view Clustering</u>}}\" has been accepted by *ICML21*. \n
 \[under review\]~~\"{{<u>Multi-view Deep One-class Classification: A Systematic Exploration</u>}}\". \[[https://arxiv.org/abs/2104.13000 PDF]\] \[[https://github.com/liujiyuan13/MvDOCC-code Code]\] \[[https://github.com/liujiyuan13/MvDOCC-datasets Data]\] \[[bibs/Multi-view_Deep_One-class_Classification.bib Bib]\] \n
 \[2021\/03\]~~\"{{<u>Multi-view Subspace Clustering via Co-training Robust Data Representation</u>}}\" has been accepted by *TNNLS*. \n
 \[2020\/12\]~~I am invited to serve as a SPC member in upcoming *IJCAI21*. \n
@@ -36,7 +37,10 @@ My education background is listed as follows:
 
 == Publication
 Conference:
-. \[*ICML'01*\]~~Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, Wenxuan Tu, *Jiyuan Liu*, Yi Zhang and En Zhu: {{<u>One Pass Late Fusion Multi-view Clustering</u>}}. 28th International Conference on Machine Learning, ICML, 2021. (Accepted Jun. 2021) \[[https://icml.cc/Conferences/2021/ PDF]\] \[[Bib]\]
+. \[*ACMMM'03*\]~~Yi Zhang, Xinwang Liu, Siwei Wang, *Jiyuan Liu*, Sisi Dai, En Zhu: {{<u>One-Stage Incomplete Multi-view Clustering via Late Fusion</u>}}. ACM International Conference on Multimedia, ACMMM, 2021. (Accepted Jul. 2021)
+. \[*ACMMM'02*\]~~Chen Zhang, Siwei Wang, *Jiyuan Liu*, Sihang Zhou, Pei Zhang, Xinwang Liu, En Zhu, Changwang Zhang: {{<u>Multi-view Clustering via Deep Matrix Factorization and Partition Alignment</u>}}. ACM International Conference on Multimedia, ACMMM, 2021. (Accepted Jul. 2021)
+. \[*ACMMM'01*\]~~*Jiyuan Liu*, Xinwang Liu\*, Yi Zhang, Pei Zhang, Wenxuan Tu, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang: {{<u>Self-Representation Subspace Clustering for Incomplete Multi-view Data</u>}}. ACM International Conference on Multimedia, ACMMM, 2021. (Accepted Jul. 2021) \[[ PDF]\] \[[https://github.com/liujiyuan13/IMSR-code_release Code]\] \[[ Supplement]\] \[[bibs/imsr_acmmm21.bib Bib]\]
+. \[*ICML'01*\]~~Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, Wenxuan Tu, *Jiyuan Liu*, Yi Zhang and En Zhu: {{<u>One Pass Late Fusion Multi-view Clustering</u>}}. 28th International Conference on Machine Learning, ICML, 2021. (Accepted Jun. 2021) \[[https://icml.cc/Conferences/2021/ PDF]\]
 . \[*AAAI'02*\]~~*Jiyuan Liu*, Xinwang Liu\*, Yuexiang Yang, Siwei Wang, Sihang Zhou: {{<u>Hierarchical Multiple Kernel Clustering</u>}}. 35th AAAI Conference on Artificial Intelligence, AAAI, 2021. (Accepted Dec. 2020) \[[pubs/HMKC.pdf PDF]\] \[[https://github.com/liujiyuan13/HMKC-code_release Code]\] \[[pubs/HMKC_Appendix.pdf Supplement]\] \[[bibs/Hierarchical_Multiple_Kernel_Clustering.bib Bib]\] \[[pubs/HMKC_Poster.pdf Poster]\] \[[pubs/HMKC_PPT.pdf PPT]\]
 . \[*ICPR'01*\]~~Xifeng Guo, *Jiyuan Liu*\*, Sihang Zhou, En Zhu, Shihao Dong: {{<u>Image Representation Learning by Transformation Regression</u>}}. 25th International Conference on Pattern Recognition, ICPR, 2020. (Accepted Oct. 2020) \[PDF\] \[Code\] \[[bibs/Image_Representation_Learning_by_Transformation_Regression.bib Bib]\]
 . \[*AAAI'01*\]~~Sihang Zhou, Xinwang Liu\*, *Jiyuan Liu*, Xifeng Guo, Yawei Zhao, En Zhu, Yongping Zhai, Jianping Yin and Wen Gao: {{<u>Multi-View Spectral Clustering with Optimal Neighborhood Laplacian Matrix</u>}}. 33th AAAI Conference on Artificial Intelligence, AAAI, 2019. \[[pubs/Multi-View_Spectral_Clustering_with_Optimal_Neighborhood_Laplacian_Matrix.pdf PDF]\] \[[https://github.com/xinwangliu/ONMSC Code]\] \[[bibs/Multi-View_Spectral_Clustering_with_Optimal_Neighborhood_Laplacian_Matrix.bib Bib]\]
