@@ -9,9 +9,10 @@
 
 /*************************** Theme Colours****************************/
 // Define theme colour scheme
-$theme-color-primary: #54B689;
-$theme-text-color-primary: #292929;
-$theme-text-color-secondary: lighten($theme-text-color-primary, 15%);
+//$theme-color-primary: #54B689;
+$theme-color-primary: #005F8C;
+$theme-text-color-primary: #000000;
+$theme-text-color-secondary: lighten($theme-text-color-primary, 10%);
 $theme-text-color-light: lighten($theme-text-color-primary, 40%);
 $theme-border-color:  lighten($theme-text-color-primary, 60%);
 
@@ -42,7 +43,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: $theme-text-color-secondary;
-    
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -85,6 +86,7 @@ a.theme-link {
 }
 
 /*********** Resume **********/
+
 .resume-wrapper {
 	border: 1px solid rgba(0, 0, 0, 0.025);
 }
@@ -118,6 +120,7 @@ a.theme-link {
 .resume-tagline {
 	font-size: 1.25rem;
 	font-weight: 300;
+	color: $theme-text-color-secondary;
 }
 
 .resume-contact {
@@ -126,6 +129,22 @@ a.theme-link {
 }
 
 a.resume-link {
+	color: $theme-text-color-secondary;
+	&:hover {
+		color: $theme-color-primary;
+	}
+}
+
+a.resume-link-no-underline {
+	color: $theme-color-primary;
+	text-decoration: none;
+	&:hover {
+		text-decoration: none;
+	}
+}
+
+a.resume-link-publication {
+	font-weight: bold;
 	color: $theme-text-color-secondary;
 	&:hover {
 		color: $theme-color-primary;
@@ -163,6 +182,15 @@ a.resume-link {
 	
 }
 
+.resume-list-dot{
+	margin-left: -1rem;
+	line-height: 1.5rem;
+}
+
+.resume-list-square{
+	list-style-type: square;
+	margin-left: -1rem;
+}
 
 .resume-education-list, .resume-awards-list {
     font-size: 0.875rem;
