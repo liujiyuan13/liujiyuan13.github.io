@@ -1,0 +1,19 @@
+@article{liu2024onrachi,
+title={数据表示的相关性度量方法},
+author={刘吉元 and 刘新旺 and 蔡志平 and 祝恩 and 鞠儒生},
+journal={计算机学报},
+volume={第47卷},
+issue={第7期},
+pages={1568--1581},
+year={2024},
+}
+
+@article{liu2024onraen,
+title={On the Correlation Measurement of Data Representations},
+author={Jiyuan Liu and Xinwang Liu and Zhiping Cai and En Zhu and Rusheng Ju},
+journal={Chinese Journal of Computers},
+volume={47},
+issue={7},
+pages={1568--1581},
+year={2024},
+}
