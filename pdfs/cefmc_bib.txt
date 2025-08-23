@@ -1,0 +1,10 @@
+@ARTICLE{11134606,
+  author={Liu, Jiyuan and Liu, Xinwang and Wang, Siqi and Wan, Xinhang and Li, Dongsheng and Lu, Kai and He, Kunlun},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Communication-Efficient Federated Multi-View Clustering}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-16},
+  doi={10.1109/TPAMI.2025.3601533}
+}
